@@ -150,56 +150,50 @@ class QuizFeedScreen extends HookConsumerWidget {
           ),
         ),
         if (showScrollHint.value)
-          Positioned(
-            bottom: 36,
-            left: 0,
-            right: 0,
+          Positioned.fill(
             child: AnimatedBuilder(
               animation: hintController,
               builder: (context, child) {
                 return AnimatedOpacity(
                   opacity: showScrollHint.value ? 1 : 0,
                   duration: const Duration(milliseconds: 300),
-                  child: Transform.translate(
-                    offset: Offset(0, (hintController.value - 0.5) * 16),
-                    child: child,
+                  child: Container(
+                    color: Colors.black.withOpacity(0.3),
+                    child: Center(
+                      child: Column(
+                        mainAxisAlignment: MainAxisAlignment.center,
+                        children: [
+                          Transform.translate(
+                            offset: Offset(0, (hintController.value - 0.5) * 30),
+                            child: Icon(
+                              Icons.keyboard_arrow_down,
+                              color: Colors.white,
+                              size: 120,
+                              weight: 1.0,
+                            ),
+                          ),
+                          const SizedBox(height: 24),
+                          Text(
+                            'Swipe down for more questions',
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 20,
+                              fontWeight: FontWeight.w600,
+                              shadows: [
+                                Shadow(
+                                  color: Colors.black.withOpacity(0.5),
+                                  blurRadius: 10,
+                                  offset: const Offset(0, 2),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
                   ),
                 );
               },
-              child: Center(
-                child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 12),
-                  decoration: BoxDecoration(
-                    color: Colors.black.withOpacity(0.55),
-                    borderRadius: BorderRadius.circular(24),
-                    border: Border.all(color: Colors.white.withOpacity(0.2)),
-                    boxShadow: [
-                      BoxShadow(
-                        color: Colors.black.withOpacity(0.25),
-                        blurRadius: 20,
-                        offset: const Offset(0, 8),
-                      ),
-                    ],
-                  ),
-                  child: Row(
-                    mainAxisSize: MainAxisSize.min,
-                    children: const [
-                      Icon(Icons.swipe, color: Colors.white, size: 18),
-                      SizedBox(width: 8),
-                      Text(
-                        'Scroll down for more questions',
-                        style: TextStyle(
-                          color: Colors.white,
-                          fontSize: 13,
-                          fontWeight: FontWeight.w600,
-                        ),
-                      ),
-                      SizedBox(width: 8),
-                      Icon(Icons.arrow_downward, color: Colors.white, size: 18),
-                    ],
-                  ),
-                ),
-              ),
             ),
           ),
       ],
