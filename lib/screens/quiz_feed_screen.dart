@@ -150,50 +150,68 @@ class QuizFeedScreen extends HookConsumerWidget {
           ),
         ),
         if (showScrollHint.value)
-          Positioned.fill(
-            child: AnimatedBuilder(
-              animation: hintController,
-              builder: (context, child) {
-                return AnimatedOpacity(
-                  opacity: showScrollHint.value ? 1 : 0,
-                  duration: const Duration(milliseconds: 300),
-                  child: Container(
-                    color: Colors.black.withOpacity(0.3),
-                    child: Center(
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          Transform.translate(
-                            offset: Offset(0, (hintController.value - 0.5) * 30),
-                            child: Icon(
-                              Icons.keyboard_arrow_down,
-                              color: Colors.white,
-                              size: 120,
-                              weight: 1.0,
-                            ),
-                          ),
-                          const SizedBox(height: 24),
-                          Text(
-                            'Swipe down for more questions',
-                            style: TextStyle(
-                              color: Colors.white,
-                              fontSize: 20,
-                              fontWeight: FontWeight.w600,
-                              shadows: [
-                                Shadow(
-                                  color: Colors.black.withOpacity(0.5),
-                                  blurRadius: 10,
-                                  offset: const Offset(0, 2),
+          IgnorePointer(
+            ignoring: false,
+            child: Positioned.fill(
+              child: AnimatedBuilder(
+                animation: hintController,
+                builder: (context, child) {
+                  return AnimatedOpacity(
+                    opacity: showScrollHint.value ? 1 : 0,
+                    duration: const Duration(milliseconds: 300),
+                    child: Container(
+                      color: Colors.black.withOpacity(0.7),
+                      child: Center(
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Transform.translate(
+                              offset: Offset(0, (hintController.value - 0.5) * 40),
+                              child: Container(
+                                padding: const EdgeInsets.all(20),
+                                decoration: BoxDecoration(
+                                  color: Colors.white.withOpacity(0.2),
+                                  shape: BoxShape.circle,
                                 ),
-                              ],
+                                child: Icon(
+                                  Icons.keyboard_arrow_down,
+                                  color: Colors.white,
+                                  size: 150,
+                                ),
+                              ),
                             ),
-                          ),
-                        ],
+                            const SizedBox(height: 32),
+                            Container(
+                              padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
+                              decoration: BoxDecoration(
+                                color: Colors.black.withOpacity(0.6),
+                                borderRadius: BorderRadius.circular(30),
+                                border: Border.all(color: Colors.white.withOpacity(0.3), width: 2),
+                              ),
+                              child: Text(
+                                'Swipe down for more questions',
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 22,
+                                  fontWeight: FontWeight.bold,
+                                  letterSpacing: 0.5,
+                                  shadows: [
+                                    Shadow(
+                                      color: Colors.black.withOpacity(0.8),
+                                      blurRadius: 15,
+                                      offset: const Offset(0, 3),
+                                    ),
+                                  ],
+                                ),
+                              ),
+                            ),
+                          ],
+                        ),
                       ),
                     ),
-                  ),
-                );
-              },
+                  );
+                },
+              ),
             ),
           ),
       ],
