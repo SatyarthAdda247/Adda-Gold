@@ -1,0 +1,353 @@
+[
+  {
+    "id": "quiz-1",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "Which Article of the Indian Constitution ensures equality before the law?",
+    "options": {
+      "A": "Article 12",
+      "B": "Article 14",
+      "C": "Article 19",
+      "D": "Article 21"
+    },
+    "correct": "B",
+    "explanation": "Article 14 guarantees equality before the law and equal protection of the laws."
+  },
+  {
+    "id": "quiz-2",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Which organisation regulates and supervises the securities market in India?",
+    "options": {
+      "A": "RBI",
+      "B": "IRDAI",
+      "C": "SEBI",
+      "D": "NABARD"
+    },
+    "correct": "C",
+    "explanation": "The Securities and Exchange Board of India (SEBI) regulates the securities market."
+  },
+  {
+    "id": "quiz-3",
+    "category": "Railways",
+    "difficulty": "easy",
+    "question": "Which is the longest railway platform in India?",
+    "options": {
+      "A": "Gorakhpur",
+      "B": "Kharagpur",
+      "C": "Bilaspur",
+      "D": "Hubballi"
+    },
+    "correct": "A",
+    "explanation": "Gorakhpur Junction in Uttar Pradesh has the longest railway platform in India."
+  },
+  {
+    "id": "quiz-4",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "Which Five-Year Plan introduced the concept of inclusive growth?",
+    "options": {
+      "A": "Eighth Plan",
+      "B": "Tenth Plan",
+      "C": "Eleventh Plan",
+      "D": "Twelfth Plan"
+    },
+    "correct": "C",
+    "explanation": "The Eleventh Five-Year Plan (2007-12) emphasized inclusive growth."
+  },
+  {
+    "id": "quiz-5",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Which bank launched the first ATM in India?",
+    "options": {
+      "A": "SBI",
+      "B": "HSBC",
+      "C": "ICICI Bank",
+      "D": "Bank of Baroda"
+    },
+    "correct": "B",
+    "explanation": "HSBC installed India\u2019s first ATM in Mumbai in 1987."
+  },
+  {
+    "id": "quiz-6",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "The concept of Fundamental Duties in the Indian Constitution is borrowed from which country?",
+    "options": {
+      "A": "USA",
+      "B": "UK",
+      "C": "USSR",
+      "D": "Japan"
+    },
+    "correct": "C",
+    "explanation": "Fundamental Duties were inspired by the Constitution of the USSR."
+  },
+  {
+    "id": "quiz-7",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "Which zone operates the luxury train Maharajas' Express?",
+    "options": {
+      "A": "Northern Railway",
+      "B": "North Western Railway",
+      "C": "Indian Railway Catering and Tourism Corporation",
+      "D": "Southern Railway"
+    },
+    "correct": "C",
+    "explanation": "IRCTC manages the Maharajas' Express luxury train."
+  },
+  {
+    "id": "quiz-8",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "The term \u2018Mixed Economy\u2019 denotes a combination of which sectors?",
+    "options": {
+      "A": "Agriculture and Industry",
+      "B": "Public and Private sectors",
+      "C": "Domestic and Foreign trade",
+      "D": "Rural and Urban markets"
+    },
+    "correct": "B",
+    "explanation": "A mixed economy includes both public and private sector participation."
+  },
+  {
+    "id": "quiz-9",
+    "category": "Banking",
+    "difficulty": "hard",
+    "question": "Basel III norms primarily aim to strengthen what aspect of banks?",
+    "options": {
+      "A": "Customer service",
+      "B": "Capital adequacy",
+      "C": "Marketing strategies",
+      "D": "Digital banking"
+    },
+    "correct": "B",
+    "explanation": "Basel III focuses on improving banks\u2019 capital adequacy and risk management."
+  },
+  {
+    "id": "quiz-10",
+    "category": "UPSC",
+    "difficulty": "medium",
+    "question": "Who presides over the joint session of both Houses of the Indian Parliament?",
+    "options": {
+      "A": "President of India",
+      "B": "Vice President of India",
+      "C": "Speaker of the Lok Sabha",
+      "D": "Prime Minister of India"
+    },
+    "correct": "C",
+    "explanation": "The Speaker of the Lok Sabha presides over joint sessions."
+  },
+  {
+    "id": "quiz-11",
+    "category": "Railways",
+    "difficulty": "easy",
+    "question": "Which is the fastest train currently operating in India?",
+    "options": {
+      "A": "Gatimaan Express",
+      "B": "Tejas Express",
+      "C": "Vande Bharat Express",
+      "D": "Rajdhani Express"
+    },
+    "correct": "C",
+    "explanation": "The Vande Bharat Express has the highest operational speed among Indian trains."
+  },
+  {
+    "id": "quiz-12",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "Which of the following is a direct tax?",
+    "options": {
+      "A": "Goods and Services Tax",
+      "B": "Income Tax",
+      "C": "Customs Duty",
+      "D": "Excise Duty"
+    },
+    "correct": "B",
+    "explanation": "Income Tax is paid directly by individuals or entities on their income."
+  },
+  {
+    "id": "quiz-13",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "The term \u2018Priority Sector Lending\u2019 refers to loans that banks must provide to sectors such as?",
+    "options": {
+      "A": "Aviation and Shipping",
+      "B": "Agriculture and MSMEs",
+      "C": "IT and Telecom",
+      "D": "Real Estate"
+    },
+    "correct": "B",
+    "explanation": "Priority Sector Lending covers Agriculture, MSMEs, education, housing and other priority areas."
+  },
+  {
+    "id": "quiz-14",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "Which constitutional amendment introduced Panchayati Raj institutions in India?",
+    "options": {
+      "A": "42nd Amendment",
+      "B": "44th Amendment",
+      "C": "73rd Amendment",
+      "D": "86th Amendment"
+    },
+    "correct": "C",
+    "explanation": "The 73rd Amendment Act, 1992, constitutionalised Panchayati Raj."
+  },
+  {
+    "id": "quiz-15",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "The headquarters of the East Coast Railway zone is located in which city?",
+    "options": {
+      "A": "Visakhapatnam",
+      "B": "Bhubaneswar",
+      "C": "Kolkata",
+      "D": "Chennai"
+    },
+    "correct": "B",
+    "explanation": "East Coast Railway zone has its headquarters in Bhubaneswar, Odisha."
+  },
+  {
+    "id": "quiz-16",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "The Phillips Curve represents the relationship between which two economic variables?",
+    "options": {
+      "A": "GDP and Inflation",
+      "B": "Unemployment and Inflation",
+      "C": "Interest Rate and Savings",
+      "D": "Exports and Imports"
+    },
+    "correct": "B",
+    "explanation": "The Phillips Curve shows an inverse relationship between unemployment and inflation."
+  },
+  {
+    "id": "quiz-17",
+    "category": "Banking",
+    "difficulty": "easy",
+    "question": "What is the minimum age to open a Pradhan Mantri Jan Dhan Yojana savings account?",
+    "options": {
+      "A": "8 years",
+      "B": "10 years",
+      "C": "12 years",
+      "D": "18 years"
+    },
+    "correct": "B",
+    "explanation": "Children aged 10 years and above can open a PMJDY account with a guardian."
+  },
+  {
+    "id": "quiz-18",
+    "category": "UPSC",
+    "difficulty": "medium",
+    "question": "Which Indian state has the largest coastline?",
+    "options": {
+      "A": "Gujarat",
+      "B": "Tamil Nadu",
+      "C": "Maharashtra",
+      "D": "Andhra Pradesh"
+    },
+    "correct": "A",
+    "explanation": "Gujarat has the longest coastline among Indian states."
+  },
+  {
+    "id": "quiz-19",
+    "category": "Railways",
+    "difficulty": "hard",
+    "question": "Which act nationalised the Indian railways?",
+    "options": {
+      "A": "Railways Act, 1951",
+      "B": "Railways (Appropriation) Act, 1952",
+      "C": "Indian Railways Act, 1890",
+      "D": "Railway Board Act, 1905"
+    },
+    "correct": "A",
+    "explanation": "Indian Railways were nationalised through the Railways Act, 1951."
+  },
+  {
+    "id": "quiz-20",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "Which indicator measures the overall price level in an economy?",
+    "options": {
+      "A": "GDP Deflator",
+      "B": "Index of Industrial Production",
+      "C": "Fiscal Deficit",
+      "D": "Current Account Balance"
+    },
+    "correct": "A",
+    "explanation": "The GDP deflator reflects changes in the overall price level of goods and services."
+  },
+  {
+    "id": "quiz-21",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Which committee recommended the introduction of the concept of 'Base Rate' in India?",
+    "options": {
+      "A": "Narasimham Committee I",
+      "B": "Narasimham Committee II",
+      "C": "Vijay Kelkar Committee",
+      "D": "Tarapore Committee"
+    },
+    "correct": "A",
+    "explanation": "Narasimham Committee I recommended reforms leading to the introduction of the Base Rate."
+  },
+  {
+    "id": "quiz-22",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "Who was the Viceroy of India during the Partition of Bengal in 1905?",
+    "options": {
+      "A": "Lord Curzon",
+      "B": "Lord Hardinge",
+      "C": "Lord Minto",
+      "D": "Lord Chelmsford"
+    },
+    "correct": "A",
+    "explanation": "Lord Curzon ordered the partition of Bengal in 1905."
+  },
+  {
+    "id": "quiz-23",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "Which Indian Railways initiative provides Wi-Fi connectivity at stations?",
+    "options": {
+      "A": "RailTel",
+      "B": "RailWire",
+      "C": "RailConnect",
+      "D": "RailLink"
+    },
+    "correct": "B",
+    "explanation": "RailWire, a service of RailTel, offers free Wi-Fi at railway stations."
+  },
+  {
+    "id": "quiz-24",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "Which economist coined the term 'Hindu rate of growth'?",
+    "options": {
+      "A": "Amartya Sen",
+      "B": "Jagdish Bhagwati",
+      "C": "Raj Krishna",
+      "D": "Manmohan Singh"
+    },
+    "correct": "C",
+    "explanation": "Economist Raj Krishna coined the term to describe India\u2019s low GDP growth before liberalisation."
+  },
+  {
+    "id": "quiz-25",
+    "category": "Banking",
+    "difficulty": "easy",
+    "question": "Which organisation is known as the lender of last resort in India?",
+    "options": {
+      "A": "NABARD",
+      "B": "SIDBI",
+      "C": "Reserve Bank of India",
+      "D": "State Bank of India"
+    },
+    "correct": "C",
+    "explanation": "The Reserve Bank of India acts as the lender of last resort to banks."
+  }
+]
+
