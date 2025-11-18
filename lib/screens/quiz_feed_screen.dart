@@ -150,9 +150,11 @@ class QuizFeedScreen extends HookConsumerWidget {
           ),
         ),
         if (showScrollHint.value)
-          IgnorePointer(
-            ignoring: false,
-            child: Positioned.fill(
+          Positioned.fill(
+            child: GestureDetector(
+              onTap: () {
+                showScrollHint.value = false;
+              },
               child: AnimatedBuilder(
                 animation: hintController,
                 builder: (context, child) {
@@ -160,7 +162,18 @@ class QuizFeedScreen extends HookConsumerWidget {
                     opacity: showScrollHint.value ? 1 : 0,
                     duration: const Duration(milliseconds: 300),
                     child: Container(
-                      color: Colors.black.withOpacity(0.7),
+                      decoration: BoxDecoration(
+                        gradient: LinearGradient(
+                          begin: Alignment.topCenter,
+                          end: Alignment.bottomCenter,
+                          colors: [
+                            Colors.black.withOpacity(0.0),
+                            Colors.black.withOpacity(0.2),
+                            Colors.black.withOpacity(0.4),
+                            Colors.black.withOpacity(0.6),
+                          ],
+                        ),
+                      ),
                       child: Center(
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.center,
@@ -170,8 +183,15 @@ class QuizFeedScreen extends HookConsumerWidget {
                               child: Container(
                                 padding: const EdgeInsets.all(20),
                                 decoration: BoxDecoration(
-                                  color: Colors.white.withOpacity(0.2),
+                                  color: Colors.white.withOpacity(0.3),
                                   shape: BoxShape.circle,
+                                  boxShadow: [
+                                    BoxShadow(
+                                      color: Colors.black.withOpacity(0.5),
+                                      blurRadius: 20,
+                                      spreadRadius: 5,
+                                    ),
+                                  ],
                                 ),
                                 child: Icon(
                                   Icons.keyboard_arrow_down,
@@ -184,9 +204,16 @@ class QuizFeedScreen extends HookConsumerWidget {
                             Container(
                               padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
                               decoration: BoxDecoration(
-                                color: Colors.black.withOpacity(0.6),
+                                color: Colors.black.withOpacity(0.7),
                                 borderRadius: BorderRadius.circular(30),
-                                border: Border.all(color: Colors.white.withOpacity(0.3), width: 2),
+                                border: Border.all(color: Colors.white.withOpacity(0.5), width: 2),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: Colors.black.withOpacity(0.5),
+                                    blurRadius: 15,
+                                    spreadRadius: 2,
+                                  ),
+                                ],
                               ),
                               child: Text(
                                 'Swipe down for more questions',
