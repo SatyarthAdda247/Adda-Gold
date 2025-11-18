@@ -1,0 +1,703 @@
+[
+  {
+    "id": "quiz-1",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "Which Article of the Indian Constitution ensures equality before the law?",
+    "options": {
+      "A": "Article 12",
+      "B": "Article 14",
+      "C": "Article 19",
+      "D": "Article 21"
+    },
+    "correct": "B",
+    "explanation": "Article 14 guarantees equality before the law and equal protection of the laws."
+  },
+  {
+    "id": "quiz-2",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Which organisation regulates and supervises the securities market in India?",
+    "options": {
+      "A": "RBI",
+      "B": "IRDAI",
+      "C": "SEBI",
+      "D": "NABARD"
+    },
+    "correct": "C",
+    "explanation": "The Securities and Exchange Board of India (SEBI) regulates the securities market."
+  },
+  {
+    "id": "quiz-3",
+    "category": "Railways",
+    "difficulty": "easy",
+    "question": "Which is the longest railway platform in India?",
+    "options": {
+      "A": "Gorakhpur",
+      "B": "Kharagpur",
+      "C": "Bilaspur",
+      "D": "Hubballi"
+    },
+    "correct": "A",
+    "explanation": "Gorakhpur Junction in Uttar Pradesh has the longest railway platform in India."
+  },
+  {
+    "id": "quiz-4",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "Which Five-Year Plan introduced the concept of inclusive growth?",
+    "options": {
+      "A": "Eighth Plan",
+      "B": "Tenth Plan",
+      "C": "Eleventh Plan",
+      "D": "Twelfth Plan"
+    },
+    "correct": "C",
+    "explanation": "The Eleventh Five-Year Plan (2007-12) emphasized inclusive growth."
+  },
+  {
+    "id": "quiz-5",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Which bank launched the first ATM in India?",
+    "options": {
+      "A": "SBI",
+      "B": "HSBC",
+      "C": "ICICI Bank",
+      "D": "Bank of Baroda"
+    },
+    "correct": "B",
+    "explanation": "HSBC installed India\u2019s first ATM in Mumbai in 1987."
+  },
+  {
+    "id": "quiz-6",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "The concept of Fundamental Duties in the Indian Constitution is borrowed from which country?",
+    "options": {
+      "A": "USA",
+      "B": "UK",
+      "C": "USSR",
+      "D": "Japan"
+    },
+    "correct": "C",
+    "explanation": "Fundamental Duties were inspired by the Constitution of the USSR."
+  },
+  {
+    "id": "quiz-7",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "Which zone operates the luxury train Maharajas' Express?",
+    "options": {
+      "A": "Northern Railway",
+      "B": "North Western Railway",
+      "C": "Indian Railway Catering and Tourism Corporation",
+      "D": "Southern Railway"
+    },
+    "correct": "C",
+    "explanation": "IRCTC manages the Maharajas' Express luxury train."
+  },
+  {
+    "id": "quiz-8",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "The term \u2018Mixed Economy\u2019 denotes a combination of which sectors?",
+    "options": {
+      "A": "Agriculture and Industry",
+      "B": "Public and Private sectors",
+      "C": "Domestic and Foreign trade",
+      "D": "Rural and Urban markets"
+    },
+    "correct": "B",
+    "explanation": "A mixed economy includes both public and private sector participation."
+  },
+  {
+    "id": "quiz-9",
+    "category": "Banking",
+    "difficulty": "hard",
+    "question": "Basel III norms primarily aim to strengthen what aspect of banks?",
+    "options": {
+      "A": "Customer service",
+      "B": "Capital adequacy",
+      "C": "Marketing strategies",
+      "D": "Digital banking"
+    },
+    "correct": "B",
+    "explanation": "Basel III focuses on improving banks\u2019 capital adequacy and risk management."
+  },
+  {
+    "id": "quiz-10",
+    "category": "UPSC",
+    "difficulty": "medium",
+    "question": "Who presides over the joint session of both Houses of the Indian Parliament?",
+    "options": {
+      "A": "President of India",
+      "B": "Vice President of India",
+      "C": "Speaker of the Lok Sabha",
+      "D": "Prime Minister of India"
+    },
+    "correct": "C",
+    "explanation": "The Speaker of the Lok Sabha presides over joint sessions."
+  },
+  {
+    "id": "quiz-11",
+    "category": "Railways",
+    "difficulty": "easy",
+    "question": "Which is the fastest train currently operating in India?",
+    "options": {
+      "A": "Gatimaan Express",
+      "B": "Tejas Express",
+      "C": "Vande Bharat Express",
+      "D": "Rajdhani Express"
+    },
+    "correct": "C",
+    "explanation": "The Vande Bharat Express has the highest operational speed among Indian trains."
+  },
+  {
+    "id": "quiz-12",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "Which of the following is a direct tax?",
+    "options": {
+      "A": "Goods and Services Tax",
+      "B": "Income Tax",
+      "C": "Customs Duty",
+      "D": "Excise Duty"
+    },
+    "correct": "B",
+    "explanation": "Income Tax is paid directly by individuals or entities on their income."
+  },
+  {
+    "id": "quiz-13",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "The term \u2018Priority Sector Lending\u2019 refers to loans that banks must provide to sectors such as?",
+    "options": {
+      "A": "Aviation and Shipping",
+      "B": "Agriculture and MSMEs",
+      "C": "IT and Telecom",
+      "D": "Real Estate"
+    },
+    "correct": "B",
+    "explanation": "Priority Sector Lending covers Agriculture, MSMEs, education, housing and other priority areas."
+  },
+  {
+    "id": "quiz-14",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "Which constitutional amendment introduced Panchayati Raj institutions in India?",
+    "options": {
+      "A": "42nd Amendment",
+      "B": "44th Amendment",
+      "C": "73rd Amendment",
+      "D": "86th Amendment"
+    },
+    "correct": "C",
+    "explanation": "The 73rd Amendment Act, 1992, constitutionalised Panchayati Raj."
+  },
+  {
+    "id": "quiz-15",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "The headquarters of the East Coast Railway zone is located in which city?",
+    "options": {
+      "A": "Visakhapatnam",
+      "B": "Bhubaneswar",
+      "C": "Kolkata",
+      "D": "Chennai"
+    },
+    "correct": "B",
+    "explanation": "East Coast Railway zone has its headquarters in Bhubaneswar, Odisha."
+  },
+  {
+    "id": "quiz-16",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "The Phillips Curve represents the relationship between which two economic variables?",
+    "options": {
+      "A": "GDP and Inflation",
+      "B": "Unemployment and Inflation",
+      "C": "Interest Rate and Savings",
+      "D": "Exports and Imports"
+    },
+    "correct": "B",
+    "explanation": "The Phillips Curve shows an inverse relationship between unemployment and inflation."
+  },
+  {
+    "id": "quiz-17",
+    "category": "Banking",
+    "difficulty": "easy",
+    "question": "What is the minimum age to open a Pradhan Mantri Jan Dhan Yojana savings account?",
+    "options": {
+      "A": "8 years",
+      "B": "10 years",
+      "C": "12 years",
+      "D": "18 years"
+    },
+    "correct": "B",
+    "explanation": "Children aged 10 years and above can open a PMJDY account with a guardian."
+  },
+  {
+    "id": "quiz-18",
+    "category": "UPSC",
+    "difficulty": "medium",
+    "question": "Which Indian state has the largest coastline?",
+    "options": {
+      "A": "Gujarat",
+      "B": "Tamil Nadu",
+      "C": "Maharashtra",
+      "D": "Andhra Pradesh"
+    },
+    "correct": "A",
+    "explanation": "Gujarat has the longest coastline among Indian states."
+  },
+  {
+    "id": "quiz-19",
+    "category": "Railways",
+    "difficulty": "hard",
+    "question": "Which act nationalised the Indian railways?",
+    "options": {
+      "A": "Railways Act, 1951",
+      "B": "Railways (Appropriation) Act, 1952",
+      "C": "Indian Railways Act, 1890",
+      "D": "Railway Board Act, 1905"
+    },
+    "correct": "A",
+    "explanation": "Indian Railways were nationalised through the Railways Act, 1951."
+  },
+  {
+    "id": "quiz-20",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "Which indicator measures the overall price level in an economy?",
+    "options": {
+      "A": "GDP Deflator",
+      "B": "Index of Industrial Production",
+      "C": "Fiscal Deficit",
+      "D": "Current Account Balance"
+    },
+    "correct": "A",
+    "explanation": "The GDP deflator reflects changes in the overall price level of goods and services."
+  },
+  {
+    "id": "quiz-21",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Which committee recommended the introduction of the concept of 'Base Rate' in India?",
+    "options": {
+      "A": "Narasimham Committee I",
+      "B": "Narasimham Committee II",
+      "C": "Vijay Kelkar Committee",
+      "D": "Tarapore Committee"
+    },
+    "correct": "A",
+    "explanation": "Narasimham Committee I recommended reforms leading to the introduction of the Base Rate."
+  },
+  {
+    "id": "quiz-22",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "Who was the Viceroy of India during the Partition of Bengal in 1905?",
+    "options": {
+      "A": "Lord Curzon",
+      "B": "Lord Hardinge",
+      "C": "Lord Minto",
+      "D": "Lord Chelmsford"
+    },
+    "correct": "A",
+    "explanation": "Lord Curzon ordered the partition of Bengal in 1905."
+  },
+  {
+    "id": "quiz-23",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "Which Indian Railways initiative provides Wi-Fi connectivity at stations?",
+    "options": {
+      "A": "RailTel",
+      "B": "RailWire",
+      "C": "RailConnect",
+      "D": "RailLink"
+    },
+    "correct": "B",
+    "explanation": "RailWire, a service of RailTel, offers free Wi-Fi at railway stations."
+  },
+  {
+    "id": "quiz-24",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "Which economist coined the term 'Hindu rate of growth'?",
+    "options": {
+      "A": "Amartya Sen",
+      "B": "Jagdish Bhagwati",
+      "C": "Raj Krishna",
+      "D": "Manmohan Singh"
+    },
+    "correct": "C",
+    "explanation": "Economist Raj Krishna coined the term to describe India\u2019s low GDP growth before liberalisation."
+  },
+  {
+    "id": "quiz-25",
+    "category": "Banking",
+    "difficulty": "easy",
+    "question": "Which organisation is known as the lender of last resort in India?",
+    "options": {
+      "A": "NABARD",
+      "B": "SIDBI",
+      "C": "Reserve Bank of India",
+      "D": "State Bank of India"
+    },
+    "correct": "C",
+    "explanation": "The Reserve Bank of India acts as the lender of last resort to banks."
+  },
+  {
+    "id": "quiz-26",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "The FRBM Act in India primarily focuses on which objective?",
+    "options": {
+      "A": "Fiscal consolidation and budget discipline",
+      "B": "Privatisation of public sector units",
+      "C": "Boosting foreign direct investment",
+      "D": "Enhancing agricultural credit"
+    },
+    "correct": "A",
+    "explanation": "The Fiscal Responsibility and Budget Management Act sets targets to keep fiscal deficits under control."
+  },
+  {
+    "id": "quiz-27",
+    "category": "Banking",
+    "difficulty": "easy",
+    "question": "Unified Payments Interface (UPI) was officially launched in which year?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "correct": "C",
+    "explanation": "UPI was launched by NPCI and the Reserve Bank of India in 2016."
+  },
+  {
+    "id": "quiz-28",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "Which organisation operates the Konkan Railway route along India's west coast?",
+    "options": {
+      "A": "Southern Railway",
+      "B": "Konkan Railway Corporation Limited",
+      "C": "Central Railway",
+      "D": "Western Railway"
+    },
+    "correct": "B",
+    "explanation": "Konkan Railway Corporation Limited (KRCL) is a PSU under the Ministry of Railways that operates the coastal route."
+  },
+  {
+    "id": "quiz-29",
+    "category": "UPSC",
+    "difficulty": "medium",
+    "question": "Directive Principles of State Policy are included in which Part of the Indian Constitution?",
+    "options": {
+      "A": "Part III",
+      "B": "Part IV",
+      "C": "Part V",
+      "D": "Part VI"
+    },
+    "correct": "B",
+    "explanation": "Directive Principles are listed in Part IV (Articles 36-51) of the Constitution."
+  },
+  {
+    "id": "quiz-30",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "The GST Council is chaired by which constitutional authority?",
+    "options": {
+      "A": "President of India",
+      "B": "Prime Minister of India",
+      "C": "Union Finance Minister",
+      "D": "Chief Justice of India"
+    },
+    "correct": "C",
+    "explanation": "The Union Finance Minister chairs the Goods and Services Tax Council."
+  },
+  {
+    "id": "quiz-31",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Reverse repo rate is used by the Reserve Bank of India to achieve which of the following?",
+    "options": {
+      "A": "Inject liquidity into the banking system",
+      "B": "Absorb excess liquidity from banks",
+      "C": "Control foreign exchange reserves",
+      "D": "Regulate export-import balance"
+    },
+    "correct": "B",
+    "explanation": "Under the reverse repo window, RBI borrows funds from banks to absorb surplus liquidity."
+  },
+  {
+    "id": "quiz-32",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "Which Schedule of the Indian Constitution lists the official languages of the Union?",
+    "options": {
+      "A": "Sixth Schedule",
+      "B": "Seventh Schedule",
+      "C": "Eighth Schedule",
+      "D": "Ninth Schedule"
+    },
+    "correct": "C",
+    "explanation": "The Eighth Schedule lists the recognised official languages; currently there are 22 languages."
+  },
+  {
+    "id": "quiz-33",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "India's first bullet train corridor is being developed between which two cities?",
+    "options": {
+      "A": "Delhi and Jaipur",
+      "B": "Mumbai and Ahmedabad",
+      "C": "Chennai and Bengaluru",
+      "D": "Kolkata and Bhubaneswar"
+    },
+    "correct": "B",
+    "explanation": "The Mumbai-Ahmedabad High-Speed Rail corridor is the first bullet train project in India."
+  },
+  {
+    "id": "quiz-34",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "In an Indian Financial System Code (IFSC), what do the last six characters represent?",
+    "options": {
+      "A": "The bank name",
+      "B": "The branch identifier",
+      "C": "The state code",
+      "D": "The currency type"
+    },
+    "correct": "B",
+    "explanation": "The 11-character IFSC code ends with six characters that uniquely identify the branch."
+  },
+  {
+    "id": "quiz-35",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "In which year was the National Development Council (NDC) established?",
+    "options": {
+      "A": "1947",
+      "B": "1950",
+      "C": "1952",
+      "D": "1955"
+    },
+    "correct": "C",
+    "explanation": "The NDC was set up in 1952 to strengthen and mobilise support for the Five-Year Plans."
+  },
+  {
+    "id": "quiz-36",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "Article 123 of the Indian Constitution empowers the President to do which of the following?",
+    "options": {
+      "A": "Dissolve the Lok Sabha at will",
+      "B": "Proclaim a national emergency",
+      "C": "Promulgate ordinances when Parliament is not in session",
+      "D": "Appoint the Prime Minister"
+    },
+    "correct": "C",
+    "explanation": "Article 123 authorises the President to promulgate ordinances when either House of Parliament is not in session."
+  },
+  {
+    "id": "quiz-37",
+    "category": "Railways",
+    "difficulty": "easy",
+    "question": "Which track gauge is predominantly used by Indian Railways?",
+    "options": {
+      "A": "Metre gauge",
+      "B": "Cape gauge",
+      "C": "Standard gauge",
+      "D": "Broad gauge"
+    },
+    "correct": "D",
+    "explanation": "Broad gauge (1,676 mm) covers more than 90% of the Indian Railways network."
+  },
+  {
+    "id": "quiz-38",
+    "category": "Banking",
+    "difficulty": "easy",
+    "question": "What is the current maximum balance limit allowed in a Payment Bank savings account?",
+    "options": {
+      "A": "₹50,000",
+      "B": "₹1,00,000",
+      "C": "₹2,00,000",
+      "D": "₹5,00,000"
+    },
+    "correct": "C",
+    "explanation": "The RBI increased the Payment Bank deposit limit to ₹2 lakh per customer in 2021."
+  },
+  {
+    "id": "quiz-39",
+    "category": "SSC",
+    "difficulty": "medium",
+    "question": "The Sixth Schedule of the Constitution of India deals with which of the following?",
+    "options": {
+      "A": "Union Territories",
+      "B": "Panchayati Raj Institutions",
+      "C": "Administration of tribal areas",
+      "D": "Cooperative societies"
+    },
+    "correct": "C",
+    "explanation": "The Sixth Schedule provides for autonomous district councils in certain tribal areas of the Northeast."
+  },
+  {
+    "id": "quiz-40",
+    "category": "UPSC",
+    "difficulty": "medium",
+    "question": "Who authored the ancient treatise 'Arthashastra'?",
+    "options": {
+      "A": "Megasthenes",
+      "B": "Kautilya",
+      "C": "Kalidasa",
+      "D": "Vatsyayana"
+    },
+    "correct": "B",
+    "explanation": "The Arthashastra, focusing on statecraft and economics, is attributed to Kautilya (Chanakya)."
+  },
+  {
+    "id": "quiz-41",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "Which manufacturing facility builds the Vande Bharat Express trainsets?",
+    "options": {
+      "A": "Integral Coach Factory, Chennai",
+      "B": "Chittaranjan Locomotive Works",
+      "C": "Rail Coach Factory, Kapurthala",
+      "D": "Bharat Heavy Electricals Limited"
+    },
+    "correct": "A",
+    "explanation": "Integral Coach Factory (ICF) in Chennai designed and manufactures the Vande Bharat trainsets."
+  },
+  {
+    "id": "quiz-42",
+    "category": "Banking",
+    "difficulty": "hard",
+    "question": "The CAMELS rating system is primarily used for what purpose?",
+    "options": {
+      "A": "Determining retail loan interest rates",
+      "B": "Evaluating the financial soundness of banks",
+      "C": "Benchmarking mutual fund performance",
+      "D": "Calculating insurance premiums"
+    },
+    "correct": "B",
+    "explanation": "CAMELS (Capital, Asset quality, Management, Earnings, Liquidity, Sensitivity) assesses bank stability."
+  },
+  {
+    "id": "quiz-43",
+    "category": "UPSC",
+    "difficulty": "medium",
+    "question": "NITI Aayog officially replaced the Planning Commission in which year?",
+    "options": {
+      "A": "2013",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016"
+    },
+    "correct": "C",
+    "explanation": "The Government of India replaced the Planning Commission with NITI Aayog on 1 January 2015."
+  },
+  {
+    "id": "quiz-44",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "What is the official currency of Bangladesh?",
+    "options": {
+      "A": "Rupee",
+      "B": "Riyal",
+      "C": "Taka",
+      "D": "Rupiah"
+    },
+    "correct": "C",
+    "explanation": "Bangladesh uses the Bangladeshi Taka (BDT) as its official currency."
+  },
+  {
+    "id": "quiz-45",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Under which legislation was the Reserve Bank of India established?",
+    "options": {
+      "A": "Banking Companies Act, 1949",
+      "B": "Reserve Bank of India Act, 1934",
+      "C": "Companies Act, 1956",
+      "D": "Negotiable Instruments Act, 1881"
+    },
+    "correct": "B",
+    "explanation": "The RBI was constituted under the Reserve Bank of India Act, 1934 and commenced operations in 1935."
+  },
+  {
+    "id": "quiz-46",
+    "category": "Railways",
+    "difficulty": "medium",
+    "question": "Which Indian city is known for having the busiest suburban railway network?",
+    "options": {
+      "A": "Chennai",
+      "B": "Mumbai",
+      "C": "Kolkata",
+      "D": "Delhi"
+    },
+    "correct": "B",
+    "explanation": "The Mumbai Suburban Railway carries millions of commuters daily, making it the busiest in India."
+  },
+  {
+    "id": "quiz-47",
+    "category": "UPSC",
+    "difficulty": "hard",
+    "question": "Who was the Chairman of the Drafting Committee of the Constituent Assembly of India?",
+    "options": {
+      "A": "Dr. Rajendra Prasad",
+      "B": "Jawaharlal Nehru",
+      "C": "Dr. B. R. Ambedkar",
+      "D": "Sardar Vallabhbhai Patel"
+    },
+    "correct": "C",
+    "explanation": "Dr. B. R. Ambedkar led the Drafting Committee that prepared the Indian Constitution."
+  },
+  {
+    "id": "quiz-48",
+    "category": "SSC",
+    "difficulty": "easy",
+    "question": "In which year was the Swachh Bharat Mission launched?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "correct": "B",
+    "explanation": "Swachh Bharat Mission was launched on 2 October 2014 to accelerate sanitation coverage."
+  },
+  {
+    "id": "quiz-49",
+    "category": "Banking",
+    "difficulty": "medium",
+    "question": "Which authority issues the Magnetic Ink Character Recognition (MICR) code to banks in India?",
+    "options": {
+      "A": "Indian Banks' Association",
+      "B": "Reserve Bank of India",
+      "C": "National Payments Corporation of India",
+      "D": "State Bank of India"
+    },
+    "correct": "B",
+    "explanation": "The Reserve Bank of India assigns MICR codes that help in faster processing of cheques."
+  },
+  {
+    "id": "quiz-50",
+    "category": "Railways",
+    "difficulty": "easy",
+    "question": "The National Rail Museum, showcasing India's railway heritage, is located in which city?",
+    "options": {
+      "A": "Secunderabad",
+      "B": "New Delhi",
+      "C": "Mysuru",
+      "D": "Patna"
+    },
+    "correct": "B",
+    "explanation": "The National Rail Museum is situated in Chanakyapuri, New Delhi."
+  }
+]
+

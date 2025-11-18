@@ -30,7 +30,10 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
-/build/
+# Exclude build directory but allow build/web for Netlify
+/build/*
+!/build/web
+!/build/web/**
 
 # Symbolication related
 app.*.symbols
